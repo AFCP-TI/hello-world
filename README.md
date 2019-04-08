@@ -1,2 +1,3 @@
-# tutorial-git
-Aula de Gerencia de configuração github professor geferson
+# hello-world
+Aprendizado
+Nesse momento estou buscando me capacitar e assim evoluir gradativamente.
